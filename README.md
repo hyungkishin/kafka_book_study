@@ -1,6 +1,6 @@
 # kafka_book_study
 카프카 책 스터디
-
+```text
 kafka-study/
 ├── README.md
 ├── book-summaries/
@@ -29,3 +29,4 @@ kafka-study/
 │   └── topic_partition_strategy.md
 └── .gitignore
 
+```
